@@ -168,13 +168,10 @@ The original data set comes with 2 significant variables: Unweighted and Weighte
 #### Query SQL to analyze and interpret data sets to generate marketing insights and BI reporting.
 ---
 #### Step 5: Data Transforming
-#### Decided to utilize "% of total" of each behavior category for prediction used to classify the generation group based on the sample size.
-
-Category “Totals” refers to the sample group of our project which is the total population of **DVD movie purchasers** with given division (region), year, age and gender. Population under all other categories refer to the “Cross Region” with our study group. For example:
+#### Decided to utilize "% of total" of each behavior category for prediction used to classify the generation group based on the sample size. Category “Totals” refers to the sample group of our project which is the total population of **DVD movie purchasers** with given division (region), year, age and gender. Population under all other categories refer to the “Cross Region” with our study group. For example:
 ---
 #### Step 6: Data Engineering
-#### Use Python to generate the "% of total" column
-Generate another column named “share” which is the proportion in **DVD purchaser** people who also choose given the category **(e.g., share = 26/31 = 0.8387)**, and there are 83.5% people from the sample group who also choose social media, who are male at age 18-24 from the east-central region. So, there are entirely some people who will choose more than one category.
+#### Use Python to generate the "% of total" column; Generate another column named “share” which is the proportion in **DVD purchaser** people who also choose given the category **(e.g., share = 26/31 = 0.8387)**, and there are 83.5% people from the sample group who also choose social media, who are male at age 18-24 from the east-central region. So, there are entirely some people who will choose more than one category.
 ---
 #### Step 7: Data Engineering
 #### Use the Excel pivot table for data transformation
