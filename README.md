@@ -5,7 +5,7 @@ HTML/JS/CSS are used with Tableau and Mapbox to develop a full-stack front-end a
 
 Nielson Ratings Data       |  Simmons Research Data    | The Jay Group
 :-------------------------:|:-------------------------:|:-------------------:
-<img src="https://apal.org.au/wp-content/uploads/nielsen-logo-featured-image-snacking-700x441.jpg" width="33%" height="auto"  /> |  <img src="https://www.simmonsresearch.com/wp-content/uploads/2019/03/MRI_Simmons_logo_horz_color.svg"  /> | Integration
+<img src="https://apal.org.au/wp-content/uploads/nielsen-logo-featured-image-snacking-700x441.jpg" width="33%" height="auto"  /> |  <img src="https://www.simmonsresearch.com/wp-content/uploads/2019/03/MRI_Simmons_logo_horz_color.svg"  /> | Systems Integrator
 
 
 <p style="float: left; margin-left:20px;"  align="center"><strong>Prebuilt demo leverages Artificial Neural Networks to predict consumer behavior and vizualize in Tableau</strong></p>
