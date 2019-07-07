@@ -292,9 +292,9 @@ Flask
 > Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions.
 
 
-### Implementation help so you can make faster, more accurate decisions with Machine Learning?
+### Need Implementation help?
 
-If ML/AI is important to you or your business, please [get in touch](https://www.linkedin.com/in/computer-vision-engineer/).
+If ML/AI is important to you or your business, so you can make faster, more accurate decisions with Machine Learning? Please [get in touch](https://www.linkedin.com/in/computer-vision-engineer/).
 
 ### Contact
 
