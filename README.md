@@ -9,6 +9,7 @@ HTML/JS/CSS are used with Tableau and Mapbox to develop a full-stack front-end a
 <div align="center">
 
 ## Demo data highlights
+</div>
 
 * Use demographic, psychographic, attitudinal, and behavioral data to refine consumer targets and inform engagement strategies.
 
@@ -20,7 +21,7 @@ HTML/JS/CSS are used with Tableau and Mapbox to develop a full-stack front-end a
 
 * Data used from Nielson, Simmons Resserach to prove Uptrend operates on data in the wild!
 
-<img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjzsuvR5aPjAhVlUN8KHb61Dm8QjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNielsen_Holdings&psig=AOvVaw3YWbtTF5mXSneJLB1FdURi&ust=1562622780027433"/ >
+<img src="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjzsuvR5aPjAhVlUN8KHb61Dm8QjRx6BAgBEAU&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FNielsen_Holdings&psig=AOvVaw3YWbtTF5mXSneJLB1FdURi&ust=1562622780027433" />
 <img src="https://www.simmonsresearch.com/wp-content/uploads/2019/03/MRI_Simmons_logo_horz_color.svg" />
 
 * [Designated Market Area](https://www.groundtruth.com/glossary_term/what-are-designated-market-areas/) regions are the geographic areas in the United States in which The Nielsen Company measures local television viewing. The DMA data are essential for any marketer, researcher, or organization seeking to utilize standardized geographic areas. The demo compares Millennials & Gen Z and other generations' consumer behaviors. Becuase Millennials and Gen Z grew up with smartphone and internet as they are aging into a new life stage as they start to get married settle down, and have families. Gen Z is aging from teenagers to young adults, and they start graduating from college and getting the first job.
