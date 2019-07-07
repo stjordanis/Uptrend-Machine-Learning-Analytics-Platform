@@ -3,6 +3,8 @@
 <strong>Uptrend</strong> is built on top of SciKit-Learn, Flask to transform data into JSON format with API routes to support seamless RESTful data transfer for fast integration into exisiting systems or databases.
 HTML/JS/CSS are used with Tableau and Mapbox to develop a full-stack front-end application for readily available data visualizations in order to make business decisions on the machine learning intelligence it provides in a highly rapid manner.
 
+<img src="https://apal.org.au/wp-content/uploads/nielsen-logo-featured-image-snacking-700x441.jpg" width="25%" height="auto" />
+<img src="https://www.simmonsresearch.com/wp-content/uploads/2019/03/MRI_Simmons_logo_horz_color.svg" width="25%" height="auto" />
 
 <p align="center"><strong>Prebuilt demo leverages Artificial Neural Networks to predict consumer behavior and vizualize in Tableau</strong></p>
 <p align="center">Scroll down to see screenshots!</p>
@@ -22,10 +24,8 @@ HTML/JS/CSS are used with Tableau and Mapbox to develop a full-stack front-end a
 
 * Develop a unique, media-neutral machine learning metric for detecting consumer trends regarding planning, buying and selling.
 
-* Data used from Nielson, Simmons Resserach to prove Uptrend operates on data in the wild!
+* Data used from Nielson & Simmons Resserach to prove <strong>Uptrend operates on data in the wild!</strong>
 
-<img src="https://apal.org.au/wp-content/uploads/nielsen-logo-featured-image-snacking-700x441.jpg" />
-<img src="https://www.simmonsresearch.com/wp-content/uploads/2019/03/MRI_Simmons_logo_horz_color.svg" />
 
 * [Designated Market Area](https://www.groundtruth.com/glossary_term/what-are-designated-market-areas/) regions are the geographic areas in the United States in which The Nielsen Company measures local television viewing. The DMA data are essential for any marketer, researcher, or organization seeking to utilize standardized geographic areas. The demo compares Millennials & Gen Z and other generations' consumer behaviors. Becuase Millennials and Gen Z grew up with smartphone and internet as they are aging into a new life stage as they start to get married settle down, and have families. Gen Z is aging from teenagers to young adults, and they start graduating from college and getting the first job.
 
