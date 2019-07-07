@@ -4,7 +4,8 @@
 HTML/JS/CSS are used with Tableau and Mapbox to develop a full-stack front-end application for readily available data visualizations in order to make business decisions on the machine learning intelligence it provides in a highly rapid manner.
 
 
-<strong>Prebuilt demo leverages Artificial Neural Networks to predict consumer behavior and vizualize in Tableau (Scroll down to see screenshots!)</strong>
+<p><strong>Prebuilt demo leverages Artificial Neural Networks to predict consumer behavior and vizualize in Tableau</strong></p>
+<p style="color:red;" align="center">Scroll down to see screenshots!</p>
 
 <div align="center">
 
