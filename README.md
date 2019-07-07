@@ -3,9 +3,9 @@
 <strong>Uptrend</strong> is built on top of SciKit-Learn, Flask to transform data into JSON format with API routes to support seamless RESTful data transfer for fast integration into exisiting systems or databases.
 HTML/JS/CSS are used with Tableau and Mapbox to develop a full-stack front-end application for readily available data visualizations in order to make business decisions on the machine learning intelligence it provides in a highly rapid manner.
 
-Nielson Ratings Data       |  Simmons Research Data   
-:-------------------------:|:-------------------------:
-<img src="https://apal.org.au/wp-content/uploads/nielsen-logo-featured-image-snacking-700x441.jpg" width="33%" height="auto"  /> |  <img src="https://www.simmonsresearch.com/wp-content/uploads/2019/03/MRI_Simmons_logo_horz_color.svg" width="130%" height="auto"  /> 
+Nielson Ratings Data       |  Simmons Research Data    |  The Jay Group  
+:-------------------------:|:-------------------------:|:--------------------------------|
+<img src="https://apal.org.au/wp-content/uploads/nielsen-logo-featured-image-snacking-700x441.jpg" width="33%" height="auto"  /> |  <img src="https://www.simmonsresearch.com/wp-content/uploads/2019/03/MRI_Simmons_logo_horz_color.svg" width="130%" height="auto"  /> | Professional Machine Learning Systems Integrator
 
 
 <p style="float: left; margin-left:20px;"  align="center"><strong>Prebuilt demo leverages Artificial Neural Networks to predict consumer behavior and vizualize in Tableau</strong></p>
