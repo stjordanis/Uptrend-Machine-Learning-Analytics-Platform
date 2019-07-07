@@ -149,11 +149,11 @@ The original data set comes with 2 significant variables: Unweighted and Weighte
 
 > The [Coordinate Data:](https://www.kaggle.com/washimahmed/usa-latlong-for-state-abbreviations/) is USA latitude and longitude for state abbreviations retreived from Kaggle
 
-## Process
+## Uptrend Analytics Platform Pipeline from multiple data point ingestion > machine learning > output/visualization and data store:
 
 ![alt text](img/i.jpg)
 
-[View Project Flow Chart Here](img/i.png)
+## Above chart described:
 
 #### Step 1： Data Retrieval
 #### Obtaining data from data sources
