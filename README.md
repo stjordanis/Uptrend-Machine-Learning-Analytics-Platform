@@ -151,7 +151,7 @@ The original data set comes with 2 significant variables: Unweighted and Weighte
 
 ## Process
 
-![alt text](https://raw.githubusercontent.com/david880110/Media-Behavior-Trends-Analytics/master/images/Project%20Flow%20Chart.jpg)
+![alt text](img/i.jpg)
 
 [View Project Flow Chart Here](img/i.png)
 
