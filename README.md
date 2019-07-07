@@ -26,7 +26,7 @@ Nielson Ratings Data       |  Simmons Research            |  The Jay Group
 
 * Develop a unique, media-neutral machine learning metric for detecting consumer trends regarding planning, buying and selling.
 
-* Data used from Nielson & Simmons Resserach to prove <strong>Uptrend operates on data in the wild!</strong>
+* Data used from Nielson & Simmons Resserach to prove <strong>![#f03c15](Uptrend operates on data in the wild!)</strong>
 
 
 * [Designated Market Area](https://www.groundtruth.com/glossary_term/what-are-designated-market-areas/) regions are the geographic areas in the United States in which The Nielsen Company measures local television viewing. The DMA data are essential for any marketer, researcher, or organization seeking to utilize standardized geographic areas. The demo compares Millennials & Gen Z and other generations' consumer behaviors. Becuase Millennials and Gen Z grew up with smartphone and internet as they are aging into a new life stage as they start to get married settle down, and have families. Gen Z is aging from teenagers to young adults, and they start graduating from college and getting the first job.
