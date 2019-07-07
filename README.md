@@ -4,7 +4,7 @@
 HTML/JS/CSS are used with Tableau and Mapbox to develop a full-stack front-end application for readily available data visualizations in order to make business decisions on the machine learning intelligence it provides in a highly rapid manner.
 
 
-<strong>Prebuilt demo leverages Artificial Neural Networks to predict consumer behavior and vizualize in Tableau</strong>
+<strong>Prebuilt demo leverages Artificial Neural Networks to predict consumer behavior and vizualize in Tableau (Scroll down to see screenshots!)</strong>
 
 <div align="center">
 
@@ -294,10 +294,10 @@ Flask
 
 ### Need Implementation help?
 
-If ML/AI is important to you or your business, so you can make faster, more accurate decisions with Machine Learning? Please [get in touch](https://www.linkedin.com/in/computer-vision-engineer/).
+If ML/AI is important to you or your business, so you can make faster, more accurate decisions with Machine Learning? Please get in touch with [Jay Weinberg](https://www.linkedin.com/in/jay-weinberg-94b233/), as The Jay Group does professional machine learning integration with Uptrend Open Source ML Platform.
 
 ### Contact
 
-Email: joehoeller@gmail.com
+Email: jay@thejaygroup.com
 
 
