@@ -1,0 +1,323 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Media Behavior Trends</title>
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css">
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" media="screen" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="css/mdb.min.css" rel="stylesheet">
+    <!-- Your custom styles (optional) -->
+    <link href="css/style.css" rel="stylesheet">
+
+    <!-- Google Font  -->
+    <link href="https://fonts.googleapis.com/css?family=Oxygen:300,400" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700" rel="stylesheet">
+
+    <!-- W3 CSS -->
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <!-- Plotly.js -->
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+
+    <!-- icons.css -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <!-- Animate.css -->
+    <link rel="stylesheet" href="../static/css/animate.css">
+    <!-- Icomoon Icon Fonts-->
+    <link rel="stylesheet" href="../static/css/icomoon.css">
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" href="../static/css/bootstrap.css">
+
+    <!-- Magnific Popup -->
+    <link rel="stylesheet" href="../static/css/magnific-popup.css">
+
+    <!-- Flexslider  -->
+    <link rel="stylesheet" href="../static/css/flexslider.css">
+
+    <!-- Theme style  -->
+    <link rel="stylesheet" href="../static/css/style.css">
+
+    <!-- Modernizr JS -->
+    <script src="../static/js/modernizr-2.6.2.min.js"></script>
+
+    <style>
+    table {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+    td, th {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+
+    tr:nth-child(even) {
+        background-color: #dddddd;
+    }
+    </style>
+</head>
+
+    </head>
+
+    <!--  Body  -->
+    <body>
+
+        <div class="fh5co-loader"></div>
+
+        <div id="page">
+        <nav class="fh5co-nav" role="navigation">
+            <div class="container-wrap">
+                <div class="top-menu">
+                    <div class="row">
+                        <div class="col-xs-3">
+                            <div id="fh5co-logo"><a href="index.html">Datakenstein</a></div>
+                        </div>
+
+                        <!--  Navbar  -->
+                        <div class="col-xs-9 text-right menu-1">
+                            <ul>
+                                <li class="active"><a href="/">Home</a></li>
+                                <li class="has-dropdown">
+                                    <a href="/projects">Project</a>
+                                    <ul class="dropdown">
+
+                                        <li><a href="/projects">Consumer Behavior Prediction</a></li>
+                                        <li><a href="/tableau">Tableau</a></li>
+                                    </ul>
+
+                                <li><a href="/ml_knowledge">Machine Learning</a></li>
+
+                                <li><a href="/meet_the_team">Meet the Team</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+
+    <div class="container-wrap">
+        <aside id="fh5co-hero">
+            <div class="flexslider">
+                <ul class="slides">
+
+                <li style="background-image: url(https://github.com/david880110/Media-Behavior-Trends-Analytics/blob/master/images/project.jpg?raw=true);">
+                    <div class="overlay-gradient"></div>
+                    <div class="container-fluids">
+                        <div class="row">
+                            <div class="col-md-6 col-md-offset-3 col-md-pull-3 slider-text">
+                            </div>
+                        </div>
+                    </div>
+                </li>
+                </ul>
+            </div>
+        </aside>
+
+        <!--  Add some space  -->
+        <div id="fh5co-about">
+
+        <div class="row animate-box">
+            <div class="col-md-6 col-md-offset-3 text-center heading-section">
+                <h1>Prediction</h1>
+                <h4>Rank Your Preferences From 1 to 5.</h4>
+            </div>
+        </div>
+
+        <!--  Pref Guide  -->
+        <p>
+            <img src="https://github.com/david880110/Media-Behavior-Trends-Analytics/blob/master/images/pref.png?raw=true" class="align-center" style="width:500px; height:500px">
+        </p>
+       <!-- Input Box  -->
+       <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal" data-whatever="@mdo">Take a Quick Survey</button>
+       <!-- Modal -->
+       <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+
+          <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 class="modal-title" id="exampleModalLabel">Rank Your Preferences</h2>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+
+                <div class="modal-body">
+                    <form  action="" method="post" role="form">
+
+                        <div class="form-group">
+                            <label for="tv">TV</label>
+                              <input type="text" class="form-control" id="tv" name="tv" placeholder="Enter a Number">
+                              <br>
+
+                              <label for="social_media">Social Media</label>
+                              <input type="text" class="form-control" id="social_media" name="social_media" placeholder="Enter a Number">
+                              <br>
+
+                              <label for="magazine">Magazine</label>
+                              <input type="text" class="form-control" id="magazine" name="magazine" placeholder="Enter a Number">
+                              <br>
+
+                              <label for="all_lives">All Lives</label>
+                              <input type="text" class="form-control" id="all_lives" name="all_lives" placeholder="Enter a Number">
+                              <br>
+
+                              <label for="video_games">Video Games</label>
+                              <input type="text" class="form-control" id="video_games" name="video_games" placeholder="Enter a Number">
+                              <br>
+
+                              <label for="tablet">Tablet</label>
+                              <input type="text" class="form-control" id="tablet" name="tablet" placeholder="Enter a Number">
+                              <br>
+
+                            <button type="submit" class="btn btn-primary">Submit</button>
+                        </div>
+                    </form>
+                    <br>
+                </div>
+            </div>
+          </div>
+        </div>
+
+
+        <hr>
+        <h2>Class Definition</h2>
+
+        <table width="100">
+          <tr>
+            <th>Class</th>
+            <th>Classification</th>
+          </tr>
+          <tr>
+            <td>1</td>
+            <td>Millennials + Gen Z</td>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td>Generation X</td>
+          </tr>
+          <tr>
+            <td>3</td>
+            <td>Baby Boomer Generation</td>
+          </tr>
+        </table>
+                <!--
+                <div class="w3-container">
+                    <h2>Rank Your Preferences</h2>
+                    <h5>The least frequently(1) to the most frequently(6)</h5>
+                </div>
+
+                <div class="input-group input-group-lg">
+                    <span class="input-group-addon" id="sizing-addon1">TV</span>
+                    <input type="text" class="form-control" placeholder="Enter your number from 1 to 6" aria-describedby="sizing-addon1">
+                </div>
+
+                <div class="input-group input-group-lg">
+                    <span class="input-group-addon" id="sizing-addon1">All Lives</span>
+                    <input type="text" class="form-control" placeholder="Enter your number from 1 to 6" aria-describedby="sizing-addon1">
+                </div>
+
+                <div class="input-group input-group-lg">
+                    <span class="input-group-addon" id="sizing-addon1">Video Games</span>
+                    <input type="text" class="form-control" placeholder="Enter your number from 1 to 6" aria-describedby="sizing-addon1">
+                </div>
+
+                <div class="input-group input-group-lg">
+                    <span class="input-group-addon" id="sizing-addon1">Social Media</span>
+                    <input type="text" class="form-control" placeholder="Enter your number from 1 to 6" aria-describedby="sizing-addon1">
+                </div>
+
+                <div class="input-group input-group-lg">
+                    <span class="input-group-addon" id="sizing-addon1">Magazine</span>
+                    <input type="text" class="form-control" placeholder="Enter your number from 1 to 6" aria-describedby="sizing-addon1">
+                </div>
+
+                <div class="input-group input-group-lg">
+                    <span class="input-group-addon" id="sizing-addon1">Tablet</span>
+                    <input type="text" class="form-control" placeholder="Enter your number from 1 to 6" aria-describedby="sizing-addon1">
+                </div>
+
+                Input box  -->
+
+            </div>
+        </div>
+    </div>
+    <!-- END container-wrap -->
+
+    <div class="container-wrap">
+        <footer id="fh5co-footer" role="contentinfo">
+            <div class="row">
+                <div class="col-md-4 fh5co-widget">
+                    <h4>About Us</h4>
+                    <p>We are team Datakenstein from USC Data Analytics Program</p>
+                </div>
+
+
+                <div class="col-md-4 col-md-push-1">
+                    <h4>Links</h4>
+                    <ul class="fh5co-footer-links">
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/projects">Projects</a></li>
+                        <li><a href="/ml_knowledge">Machine Learning</a></li>
+                        <li><a href="/meet_the_team">Meet our team</a></li>
+                    </ul>
+                </div>
+
+
+
+                <div class="col-md-4">
+                    <h4>Contact Information</h4>
+                    <ul class="fh5co-footer-links">
+                        <li><i class="fa fa-map-marker" style="font-size:24px; color:red"></i>&emsp;Los Angeles</li>
+                        <li><i class="material-icons">phone_iphone</i>&emsp;(626) 238-8928</li>
+                        <li><i class="material-icons">mail_outline</i><a href="mailto:yycyjqc@gmail.com">&emsp;yycyjqc@gmail.com</a></li>
+                    </ul>
+                </div>
+
+            </div>
+                        <ul class="fh5co-social-icons">
+                            <li><a href="https://github.com/david880110/Media-Behavior-Trends-Analytics"><i class="fa fa-github" style="font-size:24px"></i></a></li>
+                        </ul>
+                    </p>
+                </div>
+            </div>
+        </footer>
+    </div><!-- END container-wrap -->
+    </div>
+
+    <div class="gototop js-top">
+        <a href="#" class="js-gotop"><i class="icon-arrow-up2"></i></a>
+    </div>
+
+    <!-- jQuery -->
+    <script src="../static/js/jquery.min.js"></script>
+    <!-- jQuery Easing -->
+    <script src="../static/js/jquery.easing.1.3.js"></script>
+    <!-- Bootstrap -->
+    <script src="../static/js/bootstrap.min.js"></script>
+    <!-- Waypoints -->
+    <script src="../static/js/jquery.waypoints.min.js"></script>
+    <!-- Flexslider -->
+    <script src="../static/js/jquery.flexslider-min.js"></script>
+    <!-- Magnific Popup -->
+    <script src="../static/js/jquery.magnific-popup.min.js"></script>
+    <script src="../static/js/magnific-popup-options.js"></script>
+    <!-- Counters -->
+    <script src="../static/js/jquery.countTo.js"></script>
+    <!-- Main -->
+    <script src="../static/js/main.js"></script>
+
+    </body>
+</html>
+
