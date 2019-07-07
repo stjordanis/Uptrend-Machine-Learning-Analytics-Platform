@@ -1,4 +1,4 @@
-<h1 align="center">Uptrend Machine Learning Analytics</h1>
+<h1 align="center">Uptrend Machine Learning Analytics Platform</h1>
 
 <strong>Uptrend</strong> is built on top of SciKit-Learn, Flask to transform data into JSON format with API routes to support seamless RESTful data transfer for fast integration into exisiting systems or databases.
 HTML/JS/CSS are used with Tableau and Mapbox to develop a full-stack front-end application for readily available data visualizations in order to make business decisions on the machine learning intelligence it provides in a highly rapid manner.
